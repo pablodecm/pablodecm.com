@@ -38,6 +38,13 @@ CC_LICENSE='CC-BY-NC-SA'
 STATIC_PATHS = ['extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
+
+PLUGIN_PATHS = ['./pelican-plugins', ]
+PLUGINS = ['i18n_subsites', ]
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
