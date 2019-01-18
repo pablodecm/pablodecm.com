@@ -40,7 +40,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 
 PLUGIN_PATHS = ['./pelican-plugins', ]
-PLUGINS = ['i18n_subsites', ]
+#PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
