@@ -1,4 +1,5 @@
-Title: About 
+Title: About
+save_as: index.html
 
 I'm Pablo de Castro, 
 a young scientific researcher based at Padua (*Padova* in Italian), 
@@ -11,7 +12,7 @@ topics, some of them you might infer from the contents of this site.
 I am a Physics PhD student at [UNIPD](https://en.wikipedia.org/wiki/University_of_Padua) 
 working as a Marie Curie ESR Fellow
 at [INFN - Sezione di Padova](http://www.pd.infn.it/)
-within the [AMVANewPhysics](http://www.pd.infn.it/AMVA4NewPhysics/) network.
+within the [AMVANewPhysics](https://amva4newphysics.wordpress.com/) network.
 The focus of my current research is the development of statistical learning
 techniques for Higgs boson measurements and related particle physics data analyses. 
 I also collaborate in several data analysis which exploit data collected

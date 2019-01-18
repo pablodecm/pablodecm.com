@@ -8,6 +8,9 @@ SITEURL = ''
 
 PATH = 'content'
 
+ARTICLE_PATHS = ['articles',]
+PAGE_PATHS = ['pages',]
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
@@ -30,7 +33,7 @@ SOCIAL = (('twitter', 'http://twitter.com/pablodecm'),
 
 DEFAULT_PAGINATION = 10
 
-THEME=u'./pelican-bootstrap3'
+THEME=u'./pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME=u'simplex'
 
 CC_LICENSE='CC-BY-NC-SA'
@@ -40,7 +43,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 
 PLUGIN_PATHS = ['./pelican-plugins', ]
-#PLUGINS = ['i18n_subsites', ]
+PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
