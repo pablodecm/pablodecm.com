@@ -34,7 +34,7 @@ SOCIAL = (('twitter', 'http://twitter.com/pablodecm'),
 DEFAULT_PAGINATION = 10
 
 THEME=u'./pelican-themes/pelican-bootstrap3'
-BOOTSTRAP_THEME=u'simplex'
+BOOTSTRAP_THEME=u'readable'
 
 CC_LICENSE='CC-BY-NC-SA'
 

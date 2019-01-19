@@ -1,5 +1,6 @@
 Title: About
 save_as: index.html
+status: hidden
 
 I'm Pablo de Castro, 
 a young scientific researcher based at Padua (*Padova* in Italian), 
