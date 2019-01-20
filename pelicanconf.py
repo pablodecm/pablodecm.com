@@ -56,8 +56,9 @@ AUTHORS_BIO = {
 
 CC_LICENSE='CC-BY-NC-SA'
 
-STATIC_PATHS = ['extra/CNAME', 'files']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['extra', 'files']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+                       'extra/favicons/favicon.ico': {'path': 'favicon.ico'}}
 
 
 PLUGIN_PATHS = ['./pelican-plugins', ]
