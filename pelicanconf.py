@@ -75,3 +75,5 @@ MENUITEMS = (('About','/index.html'),)
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+DISQUS_SITENAME = "pablodecm"
+GOOGLE_ANALYTICS = "UA-71094563-1"
