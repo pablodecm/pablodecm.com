@@ -14,6 +14,7 @@ CONFIG = {
     'deploy_path': 'output',
     # Port for `serve`
     'port': 8000,
+    'dest_path' : "../pablodecm.github.io/."
 }
 
 @task
@@ -71,7 +72,7 @@ def publish(c):
     c.run('pelican -s publishconf.py')
     c.run(
         'rsync --delete --exclude ".DS_Store" -pthrvz -c '
-        '{} {production}:{dest_path}'.format(
+        '{} {dest_path}'.format(
             CONFIG['deploy_path'].rstrip('/') + '/',
             **CONFIG))
 
