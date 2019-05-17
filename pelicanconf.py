@@ -46,9 +46,9 @@ AUTHORS_BIO = {
     "website": "https://pablodecm.com",
     "twitter": "pablodecm",
     "github": "pablodecm",
-    "bio": r"Physics PhD Student at the University of Padua. <br>"
+    "bio": r"Physics PhD from the University of Padua. <br>"
            r"Broadly interested in machine learning and data science.",
-    "location" : "Padua (Italy)",
+    "linkedin" : "pablodecm",
     "curriculum" : "pages/curriculum"
   }
 }
