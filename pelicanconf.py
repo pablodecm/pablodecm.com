@@ -46,8 +46,8 @@ AUTHORS_BIO = {
     "website": "https://pablodecm.com",
     "twitter": "pablodecm",
     "github": "pablodecm",
-    "bio": r"Physics PhD from the University of Padua. <br>"
-           r"Broadly interested in machine learning and data science.",
+    "bio": r"Physics PhD and Technological Tinkerer<br>"
+           r"Broadly interested in Machine Learning and Data Science",
     "linkedin" : "pablodecm",
     "curriculum" : "pages/curriculum"
   }
