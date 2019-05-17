@@ -49,7 +49,7 @@ AUTHORS_BIO = {
     "bio": r"Physics PhD and Technological Tinkerer<br>"
            r"Broadly interested in Machine Learning and Data Science",
     "linkedin" : "pablodecm",
-    "curriculum" : "pages/curriculum"
+    "curriculum" : "pages/curriculum.html"
   }
 }
 
