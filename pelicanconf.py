@@ -15,7 +15,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-SITESUBTITLE="This is a test"
+SITESUBTITLE=""
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -46,7 +46,7 @@ AUTHORS_BIO = {
     "website": "https://pablodecm.com",
     "twitter": "pablodecm",
     "github": "pablodecm",
-    "bio": r"Physics PhD and Technological Tinkerer<br>"
+    "bio": r"Physics PhD and Technological Experimenter<br>"
            r"Broadly interested in Machine Learning and Data Science",
     "linkedin" : "pablodecm",
     "curriculum" : "pages/curriculum.html"
