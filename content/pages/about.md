@@ -15,7 +15,7 @@ and the [University of Padova](https://en.wikipedia.org/wiki/University_of_Padua
 I'm interested in a wide range of scientific and technological
 topics, some of them you might infer from the contents of this site.
 
-I have recently finished my PhD student at
+I have recently finished my PhD at
 [UNIPD](https://en.wikipedia.org/wiki/University_of_Padua), where I was 
 working as a Marie Skłodowska-Curie ESR Fellow
 at the [INFN - Sezione di Padova](http://www.pd.infn.it/)
