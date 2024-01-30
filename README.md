@@ -5,11 +5,11 @@ that will be improved in the future.
 
 ## Environment
 
-The following instructions have only been tested with with MacOS and python3.9. It is recommended to
-create a virtual environment.
+The following instructions have only been tested with with MacOS and python3.9.
+It is recommended to create a virtual environment.
 
-First we need to use Git to clone this repository, ideally using the recursive flag to also include the
-theme:
+First we need to use Git to clone this repository, ideally using the recursive
+flag to also include the theme:
 
 ```bash
 git clone --recursive git@github.com:pablodecm/pablodecm.com.git

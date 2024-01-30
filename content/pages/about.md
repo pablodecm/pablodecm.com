@@ -6,30 +6,32 @@ status: hidden
 
 ### About
 
-I'm Pablo de Castro,
-a young scientific researcher,
-born in [Santander (Spain)](https://en.wikipedia.org/wiki/Santander,_Spain)
-and formally trained as a physicist at
-the [University of Cantabria](http://web.unican.es/en/Pages/default.aspx)
-and the [University of Padova](https://en.wikipedia.org/wiki/University_of_Padua).
-I'm interested in a wide range of scientific and technological
-topics, some of them you might infer from the contents of this site.
+I'm Pablo de Castro, a **Data Scientist and Software Engineer**, born in
+[Cantabria (Spain)](https://en.wikipedia.org/wiki/Cantabria)
+and **formally trained as a physicist and as a scientific researcher** at
+the [University of Cantabria](http://web.unican.es/en/Pages/default.aspx) (BSc, MSc)
+and the [University of Padua](https://en.wikipedia.org/wiki/University_of_Padua)
+(PhD).
 
-I have recently finished my PhD at
-[UNIPD](https://en.wikipedia.org/wiki/University_of_Padua), where I was
-working as a Marie Skłodowska-Curie ESR Fellow
-at the [INFN - Sezione di Padova](http://www.pd.infn.it/)
-within the [AMVANewPhysics](https://amva4newphysics.wordpress.com/) ITN network.
-The focus of my research was the development of statistical learning
-techniques for Higgs boson measurements and related particle physics data
-analyses.
-I have also collaborated in several data analysis which exploit data collected
-by [CMS experiment](https://en.wikipedia.org/wiki/Compact_Muon_Solenoid) at
-the [LHC](https://en.wikipedia.org/wiki/Large_Hadron_Collider).
+After I completed and defended my [PhD thesis](https://github.com/pablodecm/phd_thesis)
+in 2019, focussed on the **development and application
+of new machine learning techniques and data-analysis pipelines to increase the
+discovery potential of the LHC experiments at CERN**, I decided to transition
+to a role in industry.
 
-I will write here about stuff that I find interesting or might
-be useful for other people (or myself in the future).
-Some articles might be technical, including
-some computer code or assuming certain physics or
-mathematics knowledge, feel free to comment for
-further explanations.  
+I initially worked for a [medium-sized technological consultancy company](https://www.treelogic.com/en/index.html),
+where I eventually led the **ideation, design and implementation of solutions
+in the context of several data and machine learning projects** both
+for commercial clients and European R&D projects.
+
+During this very formative period I also started collaborating
+part-time with a [small climate-tech start-up](https://reforestum.com/), until
+2022, when I decided to take on full-time role in this start-up **leading and
+coordinating the product and engineering efforts through a strategic pivot**.
+
+At the moment, I am taking some time to **explore and experiment with a few
+personal projects**, but I am open to **part-time consulting
+and hearing about new opportunities** where we could collaborate.
+Please contact me via [Twitter](https://twitter.com/pablodecm),
+[LinkedIn](https://www.linkedin.com/in/pablodecm) or [Email](mailto:pablodecm@gmail.com)
+if you think that is the case.
