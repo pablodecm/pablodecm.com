@@ -1,2 +1,4 @@
 output
 *.pyc
+pelican_env
+pelican-plugins
