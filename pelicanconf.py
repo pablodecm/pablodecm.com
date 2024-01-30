@@ -42,7 +42,7 @@ HEADER_COLOR="black"
 AUTHORS_BIO = {
   "pablodecm": {
     "name" : "Pablo de Castro",
-    "image" : "https://pbs.twimg.com/profile_images/985506607370067969/-Y6PP0Yd_400x400.jpg",
+    "image" : "https://pbs.twimg.com/profile_images/1752319299111280640/8vIhffmJ_400x400.jpg",
     "website": "https://pablodecm.com",
     "twitter": "pablodecm",
     "github": "pablodecm",
